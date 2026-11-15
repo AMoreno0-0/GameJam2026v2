@@ -8,6 +8,7 @@ public class Interaction : MonoBehaviour
     private Animator animator;
     private Transform dolley;
     private DolleyPickup pickup;
+    private Transform loadedBox;   // the box currently on the dolley
     private bool isPromptOpen;
 
     void Start()
@@ -18,7 +19,6 @@ public class Interaction : MonoBehaviour
 
     void Update()
     {
-        // Prompt is open: only E does anything
         if (isPromptOpen)
         {
             if (Input.GetKeyDown(KeyCode.E))
@@ -26,15 +26,14 @@ public class Interaction : MonoBehaviour
             return;
         }
 
-        // Release the dolley
         if (dolley != null && Input.GetKeyDown(KeyCode.Q))
         {
             ReleaseDolley();
         }
 
-        // Load a box
-        if (dolley != null && pickup != null && pickup.NearbyBox != null
-            && Input.GetKeyDown(KeyCode.R))
+        // Load a box, only if the dolley is empty
+        if (dolley != null && loadedBox == null && pickup != null
+            && pickup.NearbyBox != null && Input.GetKeyDown(KeyCode.R))
         {
             LoadBox(pickup.NearbyBox);
         }
@@ -88,6 +87,7 @@ public class Interaction : MonoBehaviour
 
         dolley = null;
         pickup = null;
+        // loadedBox stays parented to the dolley and keeps riding on it
     }
 
     void LoadBox(Transform box)
@@ -102,12 +102,12 @@ public class Interaction : MonoBehaviour
         box.localPosition = new Vector3(0.015f, 0.15f, 0f);
         box.localRotation = Quaternion.identity;
 
+        loadedBox = box;
         pickup.Clear();
     }
 
     void OnDisable()
     {
-        // Safety net so a disabled/destroyed player never leaves the game frozen
         if (isPromptOpen) Time.timeScale = 1f;
     }
 }
