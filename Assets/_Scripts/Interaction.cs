@@ -3,44 +3,84 @@ using TMPro;
 
 public class Interaction : MonoBehaviour
 {
-    private Rigidbody rigidbody;
-    private Collider collider;
-    private Animator animator;
-    private bool isInteracted;
     [SerializeField] private TextMeshProUGUI interactionText;
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    private Animator animator;
+    private Transform dolley;
+    private DolleyPickup pickup;
+
     void Start()
     {
-        rigidbody = GetComponent<Rigidbody>();
-        collider = GetComponent<Collider>();
         animator = GetComponent<Animator>();
-        isInteracted = false;
+        interactionText.gameObject.SetActive(false);
     }
 
-    // Update is called once per frame
     void Update()
     {
-        if (isInteracted == false && animator.GetBool("isPushing") == true && Input.GetKeyDown(KeyCode.E))
+        // Let go of the dolley
+        if (dolley != null && Input.GetKeyDown(KeyCode.E))
         {
-            Time.timeScale = 1;
-            interactionText.gameObject.SetActive(false);
-            isInteracted = true;
-        }   
+            ReleaseDolley();
+        }
+
+        // Load a box
+        if (dolley != null && pickup != null && pickup.NearbyBox != null
+            && Input.GetKeyDown(KeyCode.R))
+        {
+            LoadBox(pickup.NearbyBox);
+        }
     }
 
-    public void OnCollisionEnter2D(Collision2D other)
+    void OnCollisionEnter2D(Collision2D other)
     {
-        if (!isInteracted && other.gameObject.CompareTag("Dolley"))
+        if (dolley == null && other.gameObject.CompareTag("Dolley"))
         {
-            Debug.Log("isInteracted: " + isInteracted + ", Animator: " + animator.GetBool("isPushing"));
-            Time.timeScale = 0;
-            animator.SetBool("isPushing", true);
-            animator.SetBool("isWalking", false);
-            interactionText.gameObject.SetActive(true);
-
-            other.transform.SetParent(transform);
-            //other.transform.position = new Vector3(transform.position.x + 1, transform.position.y, transform.position.z);
+            GrabDolley(other.transform);
         }
+    }
+
+    void GrabDolley(Transform d)
+    {
+        dolley = d;
+        pickup = d.GetComponent<DolleyPickup>();
+
+        // Make the dolley follow the player instead of simulating on its own
+        if (d.TryGetComponent(out Rigidbody2D dRb))
+            dRb.bodyType = RigidbodyType2D.Kinematic;
+
+        d.SetParent(transform);
+
+        animator.SetBool("isPushing", true);
+        animator.SetBool("isWalking", false);
+        interactionText.gameObject.SetActive(true);
+    }
+
+    void ReleaseDolley()
+    {
+        dolley.SetParent(null);
+
+        if (dolley.TryGetComponent(out Rigidbody2D dRb))
+            dRb.bodyType = RigidbodyType2D.Dynamic;
+
+        animator.SetBool("isPushing", false);
+        interactionText.gameObject.SetActive(false);
+
+        dolley = null;
+        pickup = null;
+    }
+
+    void LoadBox(Transform box)
+    {
+        if (box.TryGetComponent(out Rigidbody2D boxRb))
+        {
+            boxRb.linearVelocity = Vector2.zero;
+            boxRb.bodyType = RigidbodyType2D.Kinematic;
+        }
+
+        box.SetParent(dolley);
+        box.localPosition = new Vector3(0.025f, 0.15f, 0f); // tweak so it sits on the dolley
+        box.localRotation = Quaternion.identity;
+
+        pickup.Clear();
     }
 }
