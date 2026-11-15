@@ -1,0 +1,5343 @@
+fileFormatVersion: 2
+guid: ea1c3aa3818cd0c45af0255249667922
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4676806954315058959
+    second: CEODialogue_0
+  - first:
+      213: 3431195450813090805
+    second: CEODialogue_1
+  - first:
+      213: 8454108379701842529
+    second: CEODialogue_2
+  - first:
+      213: -1611530079687965943
+    second: CEODialogue_3
+  - first:
+      213: 2073241728418824636
+    second: CEODialogue_4
+  - first:
+      213: -2236527277235388031
+    second: CEODialogue_5
+  - first:
+      213: 748452802864706133
+    second: CEODialogue_6
+  - first:
+      213: -8218217677690396540
+    second: CEODialogue_7
+  - first:
+      213: 1816381613160759788
+    second: CEODialogue_8
+  - first:
+      213: -9135668305589479880
+    second: CEODialogue_9
+  - first:
+      213: 8860594487217582856
+    second: CEODialogue_10
+  - first:
+      213: -2811438511679308166
+    second: CEODialogue_11
+  - first:
+      213: 8152643054937115182
+    second: CEODialogue_12
+  - first:
+      213: 8273053531808051011
+    second: CEODialogue_13
+  - first:
+      213: -6500240566695605491
+    second: CEODialogue_14
+  - first:
+      213: 2667052231593868446
+    second: CEODialogue_15
+  - first:
+      213: -8715354104917144731
+    second: CEODialogue_16
+  - first:
+      213: -5138202026041929747
+    second: CEODialogue_17
+  - first:
+      213: 8081541586276719902
+    second: CEODialogue_18
+  - first:
+      213: -4448823560415154445
+    second: CEODialogue_19
+  - first:
+      213: 5758638616264968293
+    second: CEODialogue_20
+  - first:
+      213: -7188092393616741966
+    second: CEODialogue_21
+  - first:
+      213: 3979564534175933411
+    second: CEODialogue_22
+  - first:
+      213: -9084975386264349370
+    second: CEODialogue_23
+  - first:
+      213: 1380935611041574319
+    second: CEODialogue_24
+  - first:
+      213: 3435918949905625348
+    second: CEODialogue_25
+  - first:
+      213: -1473562255817732725
+    second: CEODialogue_26
+  - first:
+      213: 678759484357089583
+    second: CEODialogue_27
+  - first:
+      213: 4052502248438093443
+    second: CEODialogue_28
+  - first:
+      213: -5201636948666937332
+    second: CEODialogue_29
+  - first:
+      213: -227879381133883924
+    second: CEODialogue_30
+  - first:
+      213: 4665435063588479419
+    second: CEODialogue_31
+  - first:
+      213: 8789149805678018474
+    second: CEODialogue_32
+  - first:
+      213: 2730795110573528356
+    second: CEODialogue_33
+  - first:
+      213: 1720889591089595150
+    second: CEODialogue_34
+  - first:
+      213: 8999101799709119151
+    second: CEODialogue_35
+  - first:
+      213: -4007657026461364511
+    second: CEODialogue_36
+  - first:
+      213: -1750611903345702530
+    second: CEODialogue_37
+  - first:
+      213: 5024803496867470102
+    second: CEODialogue_38
+  - first:
+      213: 1829359437398271403
+    second: CEODialogue_39
+  - first:
+      213: 4934734048685855421
+    second: CEODialogue_40
+  - first:
+      213: 2136889400531051709
+    second: CEODialogue_41
+  - first:
+      213: 3285742027311722718
+    second: CEODialogue_42
+  - first:
+      213: -6304172248518443386
+    second: CEODialogue_43
+  - first:
+      213: -9160177935581649012
+    second: CEODialogue_44
+  - first:
+      213: 2407574643850520421
+    second: CEODialogue_45
+  - first:
+      213: -7431169086767914829
+    second: CEODialogue_46
+  - first:
+      213: 4736603466195054062
+    second: CEODialogue_47
+  - first:
+      213: 2995495526023721052
+    second: CEODialogue_48
+  - first:
+      213: -7000515502426987143
+    second: CEODialogue_49
+  - first:
+      213: 9158024115829508579
+    second: CEODialogue_50
+  - first:
+      213: -2740905634395703377
+    second: CEODialogue_51
+  - first:
+      213: -5730868209232366462
+    second: CEODialogue_52
+  - first:
+      213: 6803048323468768789
+    second: CEODialogue_53
+  - first:
+      213: 1705031307530050853
+    second: CEODialogue_54
+  - first:
+      213: 1166407153719225208
+    second: CEODialogue_55
+  - first:
+      213: -2201556200680351176
+    second: CEODialogue_56
+  - first:
+      213: -2677527734239544146
+    second: CEODialogue_57
+  - first:
+      213: -1740403068952559621
+    second: CEODialogue_58
+  - first:
+      213: 5068182484120620902
+    second: CEODialogue_59
+  - first:
+      213: -7000373210560521021
+    second: CEODialogue_60
+  - first:
+      213: 7110735567039835806
+    second: CEODialogue_61
+  - first:
+      213: 5743195270861774874
+    second: CEODialogue_62
+  - first:
+      213: -6804645588297546265
+    second: CEODialogue_63
+  - first:
+      213: -1050930787257470178
+    second: CEODialogue_64
+  - first:
+      213: 8708278437385899250
+    second: CEODialogue_65
+  - first:
+      213: -1939560691907685781
+    second: CEODialogue_66
+  - first:
+      213: -5189207781514319000
+    second: CEODialogue_67
+  - first:
+      213: 4490504321911628895
+    second: CEODialogue_68
+  - first:
+      213: -4525435746461887524
+    second: CEODialogue_69
+  - first:
+      213: -4631611007309635486
+    second: CEODialogue_70
+  - first:
+      213: -4708711717237206500
+    second: CEODialogue_71
+  - first:
+      213: -1761414391873726130
+    second: CEODialogue_72
+  - first:
+      213: -3233727830495898965
+    second: CEODialogue_73
+  - first:
+      213: 382487155479141349
+    second: CEODialogue_74
+  - first:
+      213: -1293230303569284303
+    second: CEODialogue_75
+  - first:
+      213: -7044249537201607797
+    second: CEODialogue_76
+  - first:
+      213: 167813761647244229
+    second: CEODialogue_77
+  - first:
+      213: 3866515430042743015
+    second: CEODialogue_78
+  - first:
+      213: -3677585969370780413
+    second: CEODialogue_79
+  - first:
+      213: -4677159478417467028
+    second: CEODialogue_80
+  - first:
+      213: 871687799877807311
+    second: CEODialogue_81
+  - first:
+      213: -175136294228907995
+    second: CEODialogue_82
+  - first:
+      213: 6033010296465715805
+    second: CEODialogue_83
+  - first:
+      213: 7810022599334852606
+    second: CEODialogue_84
+  - first:
+      213: 2630756561629016797
+    second: CEODialogue_85
+  - first:
+      213: 8959644881898339926
+    second: CEODialogue_86
+  - first:
+      213: 5946109188427736045
+    second: CEODialogue_87
+  - first:
+      213: 3660860571587005558
+    second: CEODialogue_88
+  - first:
+      213: -7357855591118325602
+    second: CEODialogue_89
+  - first:
+      213: 7504679747388537328
+    second: CEODialogue_90
+  - first:
+      213: -4967884358362843466
+    second: CEODialogue_91
+  - first:
+      213: 4094008676696331721
+    second: CEODialogue_92
+  - first:
+      213: 4875163936730944861
+    second: CEODialogue_93
+  - first:
+      213: 2703296107759237462
+    second: CEODialogue_94
+  - first:
+      213: -3507142925506313669
+    second: CEODialogue_95
+  - first:
+      213: -8091845997226778188
+    second: CEODialogue_96
+  - first:
+      213: 70588358318144259
+    second: CEODialogue_97
+  - first:
+      213: 8493318389479946501
+    second: CEODialogue_98
+  - first:
+      213: 7004084672757237963
+    second: CEODialogue_99
+  - first:
+      213: 1227633019391488466
+    second: CEODialogue_100
+  - first:
+      213: -1044724557917268889
+    second: CEODialogue_101
+  - first:
+      213: 6944990575209558426
+    second: CEODialogue_102
+  - first:
+      213: -278444340939212770
+    second: CEODialogue_103
+  - first:
+      213: 8107761457718173217
+    second: CEODialogue_104
+  - first:
+      213: 7023895394804374008
+    second: CEODialogue_105
+  - first:
+      213: 5866020610197926830
+    second: CEODialogue_106
+  - first:
+      213: 3817110012495518195
+    second: CEODialogue_107
+  - first:
+      213: 8820742590288432831
+    second: CEODialogue_108
+  - first:
+      213: -5154232659282285029
+    second: CEODialogue_109
+  - first:
+      213: 7294182363136723068
+    second: CEODialogue_110
+  - first:
+      213: -5199932200178758204
+    second: CEODialogue_111
+  - first:
+      213: 8757885273649210697
+    second: CEODialogue_112
+  - first:
+      213: 939163412291916165
+    second: CEODialogue_113
+  - first:
+      213: -865214875731763306
+    second: CEODialogue_114
+  - first:
+      213: -6312576204172349630
+    second: CEODialogue_115
+  - first:
+      213: 4053206603947723427
+    second: CEODialogue_116
+  - first:
+      213: 125601628623773733
+    second: CEODialogue_117
+  - first:
+      213: -7276241304637048465
+    second: CEODialogue_118
+  - first:
+      213: -6633901081950179064
+    second: CEODialogue_119
+  - first:
+      213: -4483450540729797271
+    second: CEODialogue_120
+  - first:
+      213: 4703708331454878525
+    second: CEODialogue_121
+  - first:
+      213: -1574559127831368802
+    second: CEODialogue_122
+  - first:
+      213: -5723293604653581739
+    second: CEODialogue_123
+  - first:
+      213: 2653636440977531479
+    second: CEODialogue_124
+  - first:
+      213: -7957780375040988156
+    second: CEODialogue_125
+  - first:
+      213: 8018405524954350891
+    second: CEODialogue_126
+  - first:
+      213: -7623604081402979571
+    second: CEODialogue_127
+  - first:
+      213: -4961481857755101134
+    second: CEODialogue_128
+  - first:
+      213: -8397327349916810858
+    second: CEODialogue_129
+  - first:
+      213: -3713777847683464586
+    second: CEODialogue_130
+  - first:
+      213: 8419050405231348151
+    second: CEODialogue_131
+  - first:
+      213: 4339756384670488298
+    second: CEODialogue_132
+  - first:
+      213: 2893860869048792815
+    second: CEODialogue_133
+  - first:
+      213: -3024423150553225030
+    second: CEODialogue_134
+  - first:
+      213: -315082044600340528
+    second: CEODialogue_135
+  - first:
+      213: 8682693101609029466
+    second: CEODialogue_136
+  - first:
+      213: -2897596674490669843
+    second: CEODialogue_137
+  - first:
+      213: -6070873774695968004
+    second: CEODialogue_138
+  - first:
+      213: -3898743900145273915
+    second: CEODialogue_139
+  - first:
+      213: -7658174542709656579
+    second: CEODialogue_140
+  - first:
+      213: -216056289485130708
+    second: CEODialogue_141
+  - first:
+      213: -8080372555127262928
+    second: CEODialogue_142
+  - first:
+      213: 3109757877217751455
+    second: CEODialogue_143
+  - first:
+      213: 1307115507255013768
+    second: CEODialogue_144
+  - first:
+      213: 2259427240759348799
+    second: CEODialogue_145
+  - first:
+      213: 1664246461550850075
+    second: CEODialogue_146
+  - first:
+      213: 8111535344972789525
+    second: CEODialogue_147
+  - first:
+      213: 1673319728357394525
+    second: CEODialogue_148
+  - first:
+      213: 8783881965071031580
+    second: CEODialogue_149
+  - first:
+      213: -6740518056429172050
+    second: CEODialogue_150
+  - first:
+      213: -6429265747782874156
+    second: CEODialogue_151
+  - first:
+      213: 7424749063951629191
+    second: CEODialogue_152
+  - first:
+      213: 759743471648845954
+    second: CEODialogue_153
+  - first:
+      213: -1588211210023437954
+    second: CEODialogue_154
+  - first:
+      213: -1021467767199589393
+    second: CEODialogue_155
+  - first:
+      213: -8253714910344180366
+    second: CEODialogue_156
+  - first:
+      213: 2897644184113101895
+    second: CEODialogue_157
+  - first:
+      213: -3844377357385222478
+    second: CEODialogue_158
+  - first:
+      213: 3745451832922475860
+    second: CEODialogue_159
+  - first:
+      213: -6947523716886373641
+    second: CEODialogue_160
+  - first:
+      213: -1448418093683942866
+    second: CEODialogue_161
+  - first:
+      213: -2752526107523251583
+    second: CEODialogue_162
+  - first:
+      213: 5224069857634655669
+    second: CEODialogue_163
+  - first:
+      213: -8567965723049187801
+    second: CEODialogue_164
+  - first:
+      213: 3414519035372149033
+    second: CEODialogue_165
+  - first:
+      213: -4295595025556654212
+    second: CEODialogue_166
+  - first:
+      213: -6016626158010504703
+    second: CEODialogue_167
+  - first:
+      213: 1452416115995293394
+    second: CEODialogue_168
+  - first:
+      213: -8912370777601319749
+    second: CEODialogue_169
+  - first:
+      213: 6712170143202772071
+    second: CEODialogue_170
+  - first:
+      213: 2460872302158570949
+    second: CEODialogue_171
+  - first:
+      213: 5638256563390765225
+    second: CEODialogue_172
+  - first:
+      213: -9022127578727511801
+    second: CEODialogue_173
+  - first:
+      213: -1643831964901486364
+    second: CEODialogue_174
+  - first:
+      213: -3750745148754260433
+    second: CEODialogue_175
+  - first:
+      213: -3875431159390396236
+    second: CEODialogue_176
+  - first:
+      213: -2152923130108285180
+    second: CEODialogue_177
+  - first:
+      213: 8762139745892366263
+    second: CEODialogue_178
+  - first:
+      213: 5120098167066302475
+    second: CEODialogue_179
+  - first:
+      213: -7907383638855201161
+    second: CEODialogue_180
+  - first:
+      213: 47140061228930512
+    second: CEODialogue_181
+  - first:
+      213: -8587467066567763132
+    second: CEODialogue_182
+  - first:
+      213: 1032523604046729370
+    second: CEODialogue_183
+  - first:
+      213: -3121571650332410600
+    second: CEODialogue_184
+  - first:
+      213: -6745651249289847439
+    second: CEODialogue_185
+  - first:
+      213: -4625184514834874190
+    second: CEODialogue_186
+  - first:
+      213: -3179943422473527242
+    second: CEODialogue_187
+  - first:
+      213: 9079696487334555768
+    second: CEODialogue_188
+  - first:
+      213: -2253474374086293771
+    second: CEODialogue_189
+  - first:
+      213: -4938252766415605099
+    second: CEODialogue_190
+  - first:
+      213: -2825912760641815679
+    second: CEODialogue_191
+  - first:
+      213: -8135000114895023159
+    second: CEODialogue_192
+  - first:
+      213: 2955236942347857871
+    second: CEODialogue_193
+  - first:
+      213: 1744133312440768349
+    second: CEODialogue_194
+  - first:
+      213: -8230478930313747857
+    second: CEODialogue_195
+  - first:
+      213: 8887741591438946598
+    second: CEODialogue_196
+  - first:
+      213: 5759879094388926764
+    second: CEODialogue_197
+  - first:
+      213: -3801850379599549750
+    second: CEODialogue_198
+  - first:
+      213: 6067323771332716766
+    second: CEODialogue_199
+  - first:
+      213: -723565301612285003
+    second: CEODialogue_200
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CEODialogue_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 220
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f079f49ad4a81fb0800000000000000
+      internalID: -4676806954315058959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 220
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb86a0551e0e9f20800000000000000
+      internalID: 3431195450813090805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 220
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16218c097c6035570800000000000000
+      internalID: 8454108379701842529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 235
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90387574ee1b2a9e0800000000000000
+      internalID: -1611530079687965943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 220
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1cbe31e52a5cc10800000000000000
+      internalID: 2073241728418824636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 220
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181c9ed7a4246f0e0800000000000000
+      internalID: -2236527277235388031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_6
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 220
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55275e5dbd9036a00800000000000000
+      internalID: 748452802864706133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 220
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480ad6a609603fd80800000000000000
+      internalID: -8218217677690396540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_8
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 235
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce18ffc1475153910800000000000000
+      internalID: 1816381613160759788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_9
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 220
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8365b833416973180800000000000000
+      internalID: -9135668305589479880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_10
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 220
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803736d9db727fa70800000000000000
+      internalID: 8860594487217582856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 220
+        width: 7
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e708bb193cbf8d0800000000000000
+      internalID: -2811438511679308166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_12
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 220
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a0516f9a1042170800000000000000
+      internalID: 8152643054937115182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_13
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 220
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fa53bca5acfc270800000000000000
+      internalID: 8273053531808051011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 127
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b4683f4a18ac5a0800000000000000
+      internalID: -6500240566695605491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_15
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 127
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cb09dbfd5430520800000000000000
+      internalID: 2667052231593868446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 127
+        width: 7
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bcba41e97dc0780800000000000000
+      internalID: -8715354104917144731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_17
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 127
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def049d0b7071b8b0800000000000000
+      internalID: -5138202026041929747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_18
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 127
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d129f3147672070800000000000000
+      internalID: 8081541586276719902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_19
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 127
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fee01dea8a9242c0800000000000000
+      internalID: -4448823560415154445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_20
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 127
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56802589f4bcaef40800000000000000
+      internalID: 5758638616264968293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_21
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 127
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b969c95d04ce3c90800000000000000
+      internalID: -7188092393616741966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_22
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 127
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3ac44fbd04a3730800000000000000
+      internalID: 3979564534175933411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 127
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645db8c350fabe180800000000000000
+      internalID: -9084975386264349370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_24
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 127
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fade1d92f911a2310800000000000000
+      internalID: 1380935611041574319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_25
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 127
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4017826a416deaf20800000000000000
+      internalID: 3435918949905625348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_26
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 127
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d8f838feadc8be0800000000000000
+      internalID: -1473562255817732725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_27
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 127
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f291801a7207b6900800000000000000
+      internalID: 678759484357089583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_28
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 127
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386df99e2516d3830800000000000000
+      internalID: 4052502248438093443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_29
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 127
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00192031c210d7b0800000000000000
+      internalID: -5201636948666937332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_30
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 127
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce501e309e866dcf0800000000000000
+      internalID: -227879381133883924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_31
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 127
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1e7d7c874feb040800000000000000
+      internalID: 4665435063588479419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_32
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 127
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafb12d6e2559f970800000000000000
+      internalID: 8789149805678018474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_33
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 127
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425db184fabb5e520800000000000000
+      internalID: 2730795110573528356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_34
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 127
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03009627f3d1e710800000000000000
+      internalID: 1720889591089595150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_35
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 132
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa29d35586b33ec70800000000000000
+      internalID: 8999101799709119151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_36
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 127
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee0c2cfa21f168c0800000000000000
+      internalID: -4007657026461364511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_37
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 127
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e794281cfb394b7e0800000000000000
+      internalID: -1750611903345702530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_38
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 127
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b1de86820bbb540800000000000000
+      internalID: 5024803496867470102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_39
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 127
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5e1a847b0336910800000000000000
+      internalID: 1829359437398271403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_40
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 127
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db212f0d872bb7440800000000000000
+      internalID: 4934734048685855421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_41
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 127
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db463fa8691c7ad10800000000000000
+      internalID: 2136889400531051709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_42
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 119
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0bc7917fc499d20800000000000000
+      internalID: 3285742027311722718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_43
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 127
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ebe2cadb41388a0800000000000000
+      internalID: -6304172248518443386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_44
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 127
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87e84643b280e080800000000000000
+      internalID: -9160177935581649012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_45
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 127
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567a2f8f16c696120800000000000000
+      internalID: 2407574643850520421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_46
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 127
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0a55d661f2fd890800000000000000
+      internalID: -7431169086767914829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 118
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeda074c1cbcbb140800000000000000
+      internalID: 4736603466195054062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_48
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 127
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c507ae26f43229920800000000000000
+      internalID: 2995495526023721052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_49
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 127
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9756939ad3c29de90800000000000000
+      internalID: -7000515502426987143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_50
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 127
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e98a7c7966d71f70800000000000000
+      internalID: 9158024115829508579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_51
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 127
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa73af2f8d856f9d0800000000000000
+      internalID: -2740905634395703377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_52
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 127
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28430262abdd770b0800000000000000
+      internalID: -5730868209232366462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_53
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 127
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5163c26f768496e50800000000000000
+      internalID: 6803048323468768789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_54
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 127
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d9f38c0fc79a710800000000000000
+      internalID: 1705031307530050853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_55
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 127
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ba8ec5029ef2010800000000000000
+      internalID: 1166407153719225208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_56
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 127
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a9361cc408271e0800000000000000
+      internalID: -2201556200680351176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_57
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 127
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac356c36b287dad0800000000000000
+      internalID: -2677527734239544146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_58
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 127
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff351d31a8d8d7e0800000000000000
+      internalID: -1740403068952559621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_59
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 127
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fcddeed1dc55640800000000000000
+      internalID: 5068182484120620902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_60
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 127
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc116197ada9de90800000000000000
+      internalID: -7000373210560521021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_61
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 127
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e252de2586ea260800000000000000
+      internalID: 7110735567039835806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_62
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 127
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a106b6b8bade3bf40800000000000000
+      internalID: 5743195270861774874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_63
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 127
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e58817d3ea0191a0800000000000000
+      internalID: -6804645588297546265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_64
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 142
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e133ffd54085a61f0800000000000000
+      internalID: -1050930787257470178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_65
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 127
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc8491b9150ad870800000000000000
+      internalID: 8708278437385899250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_66
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 119
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b621882b3db4515e0800000000000000
+      internalID: -1939560691907685781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_67
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 119
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b652d240b3cf7b0800000000000000
+      internalID: -5189207781514319000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_68
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 127
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5426e993e9715e30800000000000000
+      internalID: 4490504321911628895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_69
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 127
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3d8465a2c6231c0800000000000000
+      internalID: -4525435746461887524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_70
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 127
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2602583045639bfb0800000000000000
+      internalID: -4631611007309635486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_71
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 81
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c125b5814ab47aeb0800000000000000
+      internalID: -4708711717237206500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_72
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 81
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e491b1661f23e87e0800000000000000
+      internalID: -1761414391873726130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_73
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 81
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba25ff2dbad7f13d0800000000000000
+      internalID: -3233727830495898965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_74
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 81
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebdb799a0ede4500800000000000000
+      internalID: 382487155479141349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_75
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 81
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1337bf604e58d0ee0800000000000000
+      internalID: -1293230303569284303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_76
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 81
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b63e13e5ccd3e90800000000000000
+      internalID: -7044249537201607797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_77
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 96
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3f7632ab1345200800000000000000
+      internalID: 167813761647244229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_78
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 81
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0b3464c4f98a530800000000000000
+      internalID: 3866515430042743015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_79
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 73
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30da1b8ab0796fcc0800000000000000
+      internalID: -3677585969370780413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_80
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 73
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69531b2c34671fb0800000000000000
+      internalID: -4677159478417467028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_81
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 81
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc22c28f6bd81c00800000000000000
+      internalID: 871687799877807311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_82
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 81
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5282533e77ac19df0800000000000000
+      internalID: -175136294228907995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_83
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 81
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52fc1f76ee89b350800000000000000
+      internalID: 6033010296465715805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_84
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 81
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef77021cc26c26c60800000000000000
+      internalID: 7810022599334852606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_85
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 81
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2fc6a8723528420800000000000000
+      internalID: 2630756561629016797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_86
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 81
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e7233cc8d075c70800000000000000
+      internalID: 8959644881898339926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_87
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 81
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3ebe39dc2d48250800000000000000
+      internalID: 5946109188427736045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_88
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 81
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c4da53b4dfdc230800000000000000
+      internalID: 3660860571587005558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_89
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 96
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9835cec255a3e990800000000000000
+      internalID: -7357855591118325602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_90
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 81
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f97920087af52860800000000000000
+      internalID: 7504679747388537328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_91
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 81
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6309e3f778e0bb0800000000000000
+      internalID: -4967884358362843466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_92
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 81
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c51ad15337d0d830800000000000000
+      internalID: 4094008676696331721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_93
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 81
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5594ae45cf08a340800000000000000
+      internalID: 4875163936730944861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_94
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 81
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6597fa1cc79048520800000000000000
+      internalID: 2703296107759237462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_95
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 81
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b320ca44710245fc0800000000000000
+      internalID: -3507142925506313669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_96
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 81
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1a12e10fcf3bf80800000000000000
+      internalID: -8091845997226778188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_97
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 81
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bb4d6ecb7caf000800000000000000
+      internalID: 70588358318144259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_98
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 81
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509be3163145ed570800000000000000
+      internalID: 8493318389479946501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_99
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 81
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8047096e1833160800000000000000
+      internalID: 7004084672757237963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_100
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 81
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1be531abd690110800000000000000
+      internalID: 1227633019391488466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_101
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 81
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764d63dbc846081f0800000000000000
+      internalID: -1044724557917268889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_102
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 81
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a913dcbc120916060800000000000000
+      internalID: 6944990575209558426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_103
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 81
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18b990e854c22cf0800000000000000
+      internalID: -278444340939212770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_104
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 81
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e15eac61e848070800000000000000
+      internalID: 8107761457718173217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_105
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 81
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f911dab5a3e97160800000000000000
+      internalID: 7023895394804374008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_106
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 81
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3b7fb5aaa486150800000000000000
+      internalID: 5866020610197926830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_107
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 96
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9d16b155919f430800000000000000
+      internalID: 3817110012495518195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_108
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 81
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe0d4dc6a2996a70800000000000000
+      internalID: 8820742590288432831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_109
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 81
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e23c564bc7878b0800000000000000
+      internalID: -5154232659282285029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_110
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 81
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c780fa986342a3560800000000000000
+      internalID: 7294182363136723068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_111
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 81
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdca30e63126d7b0800000000000000
+      internalID: -5199932200178758204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_112
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 81
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9456c7f41424a8970800000000000000
+      internalID: 8757885273649210697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_113
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 81
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58114b7c524980d00800000000000000
+      internalID: 939163412291916165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_114
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 81
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fdf9597a32ef3f0800000000000000
+      internalID: -865214875731763306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_115
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 81
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f29b443693568a0800000000000000
+      internalID: -6312576204172349630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_116
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 81
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa42957ee1ef3830800000000000000
+      internalID: 4053206603947723427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_117
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 81
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520a459040a3eb100800000000000000
+      internalID: 125601628623773733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_118
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 81
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f697519a519950b90800000000000000
+      internalID: -7276241304637048465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_119
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 72
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801b7472d16afe3a0800000000000000
+      internalID: -6633901081950179064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_120
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 81
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96574cfcc7597c1c0800000000000000
+      internalID: -4483450540729797271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_121
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 81
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33d96f5ecde64140800000000000000
+      internalID: 4703708331454878525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_122
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 81
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b23cbc0da062ae0800000000000000
+      internalID: -1574559127831368802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_123
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 81
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55abb553ac6c290b0800000000000000
+      internalID: -5723293604653581739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_124
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 81
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7526f73984c93d420800000000000000
+      internalID: 2653636440977531479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_125
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 81
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c6b1939e8409190800000000000000
+      internalID: -7957780375040988156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_126
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 81
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b250fe37759174f60800000000000000
+      internalID: 8018405524954350891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_127
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 81
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bd1c3ca74833690800000000000000
+      internalID: -7623604081402979571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_128
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 96
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23846f49986452bb0800000000000000
+      internalID: -4961481857755101134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_129
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 81
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69149852443b67b80800000000000000
+      internalID: -8397327349916810858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_130
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 81
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672cc1659b2067cc0800000000000000
+      internalID: -3713777847683464586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_131
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 72
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b94cedccb976d470800000000000000
+      internalID: 8419050405231348151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_132
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae694085079e93c30800000000000000
+      internalID: 4339756384670488298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_133
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 34
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe67e09c02f092820800000000000000
+      internalID: 2893860869048792815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_134
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 34
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8aecc2b271706d0800000000000000
+      internalID: -3024423150553225030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_135
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 49
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df2e70cc8a90abf0800000000000000
+      internalID: -315082044600340528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_136
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 34
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f042f7f5f1f7870800000000000000
+      internalID: 8682693101609029466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_137
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 34
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de461aa3d2ba9c7d0800000000000000
+      internalID: -2897596674490669843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_138
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 34
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2130f777cefbba0800000000000000
+      internalID: -6070873774695968004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_139
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 26
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3be994411e4e9c0800000000000000
+      internalID: -3898743900145273915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_140
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 34
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3f9d104d2b8b590800000000000000
+      internalID: -7658174542709656579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_141
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 34
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24ffbd03f9600df0800000000000000
+      internalID: -216056289485130708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_142
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 34
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031f2d609ffbcdf80800000000000000
+      internalID: -8080372555127262928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_143
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 34
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9179092054182b20800000000000000
+      internalID: 3109757877217751455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_144
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 34
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881f652e0aec32210800000000000000
+      internalID: 1307115507255013768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_145
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 34
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e4d41ca191b5f10800000000000000
+      internalID: 2259427240759348799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_146
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 34
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b107077d657981710800000000000000
+      internalID: 1664246461550850075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_147
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 34
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517f0246b66f19070800000000000000
+      internalID: 8111535344972789525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_148
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 34
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5845646d63d83710800000000000000
+      internalID: 1673319728357394525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_149
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 34
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1dd405bb1e96e970800000000000000
+      internalID: 8783881965071031580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_150
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 34
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaace6c5a8ed472a0800000000000000
+      internalID: -6740518056429172050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_151
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 34
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbc0d8bdd8a6c6a0800000000000000
+      internalID: -6429265747782874156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_152
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 34
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b30478fe10a0760800000000000000
+      internalID: 7424749063951629191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_153
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 34
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2803d0489a62b8a00800000000000000
+      internalID: 759743471648845954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_154
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 34
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e797246b15a85f9e0800000000000000
+      internalID: -1588211210023437954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_155
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 34
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb9e8a4a7403d1f0800000000000000
+      internalID: -1021467767199589393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_156
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 34
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d0793e40ae47d80800000000000000
+      internalID: -8253714910344180366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_157
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 34
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cb9877800863820800000000000000
+      internalID: 2897644184113101895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_158
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 34
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6bf7e692706aac0800000000000000
+      internalID: -3844377357385222478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_159
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 34
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d0ea809948af330800000000000000
+      internalID: 3745451832922475860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_160
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 34
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fad2623dff659f90800000000000000
+      internalID: -6947523716886373641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_161
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 34
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a58b7fa6f26ebe0800000000000000
+      internalID: -1448418093683942866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_162
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 49
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1828616b6101dc9d0800000000000000
+      internalID: -2752526107523251583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_163
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 34
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd93227bdf9f7840800000000000000
+      internalID: 5224069857634655669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_164
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 34
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7262ee5e198781980800000000000000
+      internalID: -8567965723049187801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_165
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 34
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9299a26c8fec26f20800000000000000
+      internalID: 3414519035372149033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_166
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 34
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77b2c2551bf264c0800000000000000
+      internalID: -4295595025556654212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_167
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 34
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ae5710366a08ca0800000000000000
+      internalID: -6016626158010504703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_168
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 53
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6b3f323c4082410800000000000000
+      internalID: 1452416115995293394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_169
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 34
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc508e5ff5e05480800000000000000
+      internalID: -8912370777601319749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_170
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 34
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7648591ce2b662d50800000000000000
+      internalID: 6712170143202772071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_171
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 34
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c562cf0256c62220800000000000000
+      internalID: 2460872302158570949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_172
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 34
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8db6db87c1f3e40800000000000000
+      internalID: 5638256563390765225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_173
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 34
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70901b7b4c6fac280800000000000000
+      internalID: -9022127578727511801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_174
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 25
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e05d9d898fef29e0800000000000000
+      internalID: -1643831964901486364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_175
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 34
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e8b75d82da2fbc0800000000000000
+      internalID: -3750745148754260433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_176
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 34
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b02e09b4e3b73ac0800000000000000
+      internalID: -3875431159390396236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_177
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 34
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f6c21e1d74f12e0800000000000000
+      internalID: -2152923130108285180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_178
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 34
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7fe32dcaf599970800000000000000
+      internalID: 8762139745892366263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_179
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 34
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b089d1fc72e3e0740800000000000000
+      internalID: 5120098167066302475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_180
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 49
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ecc4fb974534290800000000000000
+      internalID: -7907383638855201161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_181
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 34
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d59d3cc2a977a000800000000000000
+      internalID: 47140061228930512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_182
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 39
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bdcd8833033d880800000000000000
+      internalID: -8587467066567763132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_183
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 34
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9059615fb2445e00800000000000000
+      internalID: 1032523604046729370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_184
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 34
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81db1017f13fda4d0800000000000000
+      internalID: -3121571650332410600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_185
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 34
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d9863cde1a262a0800000000000000
+      internalID: -6745651249289847439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_186
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 34
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b041a4603b00dfb0800000000000000
+      internalID: -4625184514834874190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_187
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 34
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63020a92e429ed3d0800000000000000
+      internalID: -3179943422473527242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_188
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 34
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87030f359df810e70800000000000000
+      internalID: 9079696487334555768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_189
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 34
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f604260ffc0ab0e0800000000000000
+      internalID: -2253474374086293771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_190
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 25
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59235bed54dc77bb0800000000000000
+      internalID: -4938252766415605099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_191
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 34
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b73b7015758c8d0800000000000000
+      internalID: -2825912760641815679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_192
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 49
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c39bef1f7caa1f80800000000000000
+      internalID: -8135000114895023159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_193
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 34
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf61cf675c130920800000000000000
+      internalID: 2955236942347857871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_194
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 39
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5715f0c108643810800000000000000
+      internalID: 1744133312440768349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_195
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 34
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62ef43150777cd80800000000000000
+      internalID: -8230478930313747857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_196
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 34
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621fe2d53e9975b70800000000000000
+      internalID: 8887741591438946598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_197
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 34
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29204ae4833fef40800000000000000
+      internalID: 5759879094388926764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_198
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 34
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acae8ca093d1d3bc0800000000000000
+      internalID: -3801850379599549750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_199
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 34
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8e19fe2d6733450800000000000000
+      internalID: 6067323771332716766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CEODialogue_200
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 34
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3f999113165f5f0800000000000000
+      internalID: -723565301612285003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CEODialogue_0: -4676806954315058959
+      CEODialogue_1: 3431195450813090805
+      CEODialogue_10: 8860594487217582856
+      CEODialogue_100: 1227633019391488466
+      CEODialogue_101: -1044724557917268889
+      CEODialogue_102: 6944990575209558426
+      CEODialogue_103: -278444340939212770
+      CEODialogue_104: 8107761457718173217
+      CEODialogue_105: 7023895394804374008
+      CEODialogue_106: 5866020610197926830
+      CEODialogue_107: 3817110012495518195
+      CEODialogue_108: 8820742590288432831
+      CEODialogue_109: -5154232659282285029
+      CEODialogue_11: -2811438511679308166
+      CEODialogue_110: 7294182363136723068
+      CEODialogue_111: -5199932200178758204
+      CEODialogue_112: 8757885273649210697
+      CEODialogue_113: 939163412291916165
+      CEODialogue_114: -865214875731763306
+      CEODialogue_115: -6312576204172349630
+      CEODialogue_116: 4053206603947723427
+      CEODialogue_117: 125601628623773733
+      CEODialogue_118: -7276241304637048465
+      CEODialogue_119: -6633901081950179064
+      CEODialogue_12: 8152643054937115182
+      CEODialogue_120: -4483450540729797271
+      CEODialogue_121: 4703708331454878525
+      CEODialogue_122: -1574559127831368802
+      CEODialogue_123: -5723293604653581739
+      CEODialogue_124: 2653636440977531479
+      CEODialogue_125: -7957780375040988156
+      CEODialogue_126: 8018405524954350891
+      CEODialogue_127: -7623604081402979571
+      CEODialogue_128: -4961481857755101134
+      CEODialogue_129: -8397327349916810858
+      CEODialogue_13: 8273053531808051011
+      CEODialogue_130: -3713777847683464586
+      CEODialogue_131: 8419050405231348151
+      CEODialogue_132: 4339756384670488298
+      CEODialogue_133: 2893860869048792815
+      CEODialogue_134: -3024423150553225030
+      CEODialogue_135: -315082044600340528
+      CEODialogue_136: 8682693101609029466
+      CEODialogue_137: -2897596674490669843
+      CEODialogue_138: -6070873774695968004
+      CEODialogue_139: -3898743900145273915
+      CEODialogue_14: -6500240566695605491
+      CEODialogue_140: -7658174542709656579
+      CEODialogue_141: -216056289485130708
+      CEODialogue_142: -8080372555127262928
+      CEODialogue_143: 3109757877217751455
+      CEODialogue_144: 1307115507255013768
+      CEODialogue_145: 2259427240759348799
+      CEODialogue_146: 1664246461550850075
+      CEODialogue_147: 8111535344972789525
+      CEODialogue_148: 1673319728357394525
+      CEODialogue_149: 8783881965071031580
+      CEODialogue_15: 2667052231593868446
+      CEODialogue_150: -6740518056429172050
+      CEODialogue_151: -6429265747782874156
+      CEODialogue_152: 7424749063951629191
+      CEODialogue_153: 759743471648845954
+      CEODialogue_154: -1588211210023437954
+      CEODialogue_155: -1021467767199589393
+      CEODialogue_156: -8253714910344180366
+      CEODialogue_157: 2897644184113101895
+      CEODialogue_158: -3844377357385222478
+      CEODialogue_159: 3745451832922475860
+      CEODialogue_16: -8715354104917144731
+      CEODialogue_160: -6947523716886373641
+      CEODialogue_161: -1448418093683942866
+      CEODialogue_162: -2752526107523251583
+      CEODialogue_163: 5224069857634655669
+      CEODialogue_164: -8567965723049187801
+      CEODialogue_165: 3414519035372149033
+      CEODialogue_166: -4295595025556654212
+      CEODialogue_167: -6016626158010504703
+      CEODialogue_168: 1452416115995293394
+      CEODialogue_169: -8912370777601319749
+      CEODialogue_17: -5138202026041929747
+      CEODialogue_170: 6712170143202772071
+      CEODialogue_171: 2460872302158570949
+      CEODialogue_172: 5638256563390765225
+      CEODialogue_173: -9022127578727511801
+      CEODialogue_174: -1643831964901486364
+      CEODialogue_175: -3750745148754260433
+      CEODialogue_176: -3875431159390396236
+      CEODialogue_177: -2152923130108285180
+      CEODialogue_178: 8762139745892366263
+      CEODialogue_179: 5120098167066302475
+      CEODialogue_18: 8081541586276719902
+      CEODialogue_180: -7907383638855201161
+      CEODialogue_181: 47140061228930512
+      CEODialogue_182: -8587467066567763132
+      CEODialogue_183: 1032523604046729370
+      CEODialogue_184: -3121571650332410600
+      CEODialogue_185: -6745651249289847439
+      CEODialogue_186: -4625184514834874190
+      CEODialogue_187: -3179943422473527242
+      CEODialogue_188: 9079696487334555768
+      CEODialogue_189: -2253474374086293771
+      CEODialogue_19: -4448823560415154445
+      CEODialogue_190: -4938252766415605099
+      CEODialogue_191: -2825912760641815679
+      CEODialogue_192: -8135000114895023159
+      CEODialogue_193: 2955236942347857871
+      CEODialogue_194: 1744133312440768349
+      CEODialogue_195: -8230478930313747857
+      CEODialogue_196: 8887741591438946598
+      CEODialogue_197: 5759879094388926764
+      CEODialogue_198: -3801850379599549750
+      CEODialogue_199: 6067323771332716766
+      CEODialogue_2: 8454108379701842529
+      CEODialogue_20: 5758638616264968293
+      CEODialogue_200: -723565301612285003
+      CEODialogue_21: -7188092393616741966
+      CEODialogue_22: 3979564534175933411
+      CEODialogue_23: -9084975386264349370
+      CEODialogue_24: 1380935611041574319
+      CEODialogue_25: 3435918949905625348
+      CEODialogue_26: -1473562255817732725
+      CEODialogue_27: 678759484357089583
+      CEODialogue_28: 4052502248438093443
+      CEODialogue_29: -5201636948666937332
+      CEODialogue_3: -1611530079687965943
+      CEODialogue_30: -227879381133883924
+      CEODialogue_31: 4665435063588479419
+      CEODialogue_32: 8789149805678018474
+      CEODialogue_33: 2730795110573528356
+      CEODialogue_34: 1720889591089595150
+      CEODialogue_35: 8999101799709119151
+      CEODialogue_36: -4007657026461364511
+      CEODialogue_37: -1750611903345702530
+      CEODialogue_38: 5024803496867470102
+      CEODialogue_39: 1829359437398271403
+      CEODialogue_4: 2073241728418824636
+      CEODialogue_40: 4934734048685855421
+      CEODialogue_41: 2136889400531051709
+      CEODialogue_42: 3285742027311722718
+      CEODialogue_43: -6304172248518443386
+      CEODialogue_44: -9160177935581649012
+      CEODialogue_45: 2407574643850520421
+      CEODialogue_46: -7431169086767914829
+      CEODialogue_47: 4736603466195054062
+      CEODialogue_48: 2995495526023721052
+      CEODialogue_49: -7000515502426987143
+      CEODialogue_5: -2236527277235388031
+      CEODialogue_50: 9158024115829508579
+      CEODialogue_51: -2740905634395703377
+      CEODialogue_52: -5730868209232366462
+      CEODialogue_53: 6803048323468768789
+      CEODialogue_54: 1705031307530050853
+      CEODialogue_55: 1166407153719225208
+      CEODialogue_56: -2201556200680351176
+      CEODialogue_57: -2677527734239544146
+      CEODialogue_58: -1740403068952559621
+      CEODialogue_59: 5068182484120620902
+      CEODialogue_6: 748452802864706133
+      CEODialogue_60: -7000373210560521021
+      CEODialogue_61: 7110735567039835806
+      CEODialogue_62: 5743195270861774874
+      CEODialogue_63: -6804645588297546265
+      CEODialogue_64: -1050930787257470178
+      CEODialogue_65: 8708278437385899250
+      CEODialogue_66: -1939560691907685781
+      CEODialogue_67: -5189207781514319000
+      CEODialogue_68: 4490504321911628895
+      CEODialogue_69: -4525435746461887524
+      CEODialogue_7: -8218217677690396540
+      CEODialogue_70: -4631611007309635486
+      CEODialogue_71: -4708711717237206500
+      CEODialogue_72: -1761414391873726130
+      CEODialogue_73: -3233727830495898965
+      CEODialogue_74: 382487155479141349
+      CEODialogue_75: -1293230303569284303
+      CEODialogue_76: -7044249537201607797
+      CEODialogue_77: 167813761647244229
+      CEODialogue_78: 3866515430042743015
+      CEODialogue_79: -3677585969370780413
+      CEODialogue_8: 1816381613160759788
+      CEODialogue_80: -4677159478417467028
+      CEODialogue_81: 871687799877807311
+      CEODialogue_82: -175136294228907995
+      CEODialogue_83: 6033010296465715805
+      CEODialogue_84: 7810022599334852606
+      CEODialogue_85: 2630756561629016797
+      CEODialogue_86: 8959644881898339926
+      CEODialogue_87: 5946109188427736045
+      CEODialogue_88: 3660860571587005558
+      CEODialogue_89: -7357855591118325602
+      CEODialogue_9: -9135668305589479880
+      CEODialogue_90: 7504679747388537328
+      CEODialogue_91: -4967884358362843466
+      CEODialogue_92: 4094008676696331721
+      CEODialogue_93: 4875163936730944861
+      CEODialogue_94: 2703296107759237462
+      CEODialogue_95: -3507142925506313669
+      CEODialogue_96: -8091845997226778188
+      CEODialogue_97: 70588358318144259
+      CEODialogue_98: 8493318389479946501
+      CEODialogue_99: 7004084672757237963
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
