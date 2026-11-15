@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/HomeScreen.unity
+    guid: 10846d52d0a85f346a0276bf1e89aaef
+  - enabled: 1
     path: Assets/Scenes/OfficeInterior.unity
     guid: 401d5c4c8d98c41488012d54304c9111
   - enabled: 1
@@ -17,6 +20,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/CharityInterior.unity
     guid: e9a7427109339ec4492ceb08e73fb774
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: b07c6d390ba3d11429cf81b8d5911704
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
