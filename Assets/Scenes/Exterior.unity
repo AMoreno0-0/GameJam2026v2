@@ -11665,7 +11665,7 @@ GameObject:
   - component: {fileID: 1318745276}
   - component: {fileID: 1318745277}
   - component: {fileID: 1318745278}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ActivationTiles
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11996,6 +11996,7 @@ MonoBehaviour:
   promptUI: {fileID: 348431950}
   playerTag: Player
   closeKey: 101
+  isPromptOpen: 0
 --- !u!114 &1318745278
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12008,36 +12009,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92b522f9d69a92247acb99840003beba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BuildingChoice
+  sceneToLoad: CorpoInterior
   playerTag: Player
   chooseKey: 101
   interactHint: {fileID: 0}
-  onChosen:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 348431950}
-        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-        m_MethodName: SetActive
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 1
-        m_CallState: 2
-      - m_Target: {fileID: 102900000, guid: 8c9cfa26abfee488c85f1582747f6a02, type: 3}
-        m_TargetAssemblyTypeName: ActivationZone, Assembly-CSharp
-        m_MethodName: 
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
 --- !u!1 &1406140161
 GameObject:
   m_ObjectHideFlags: 0
@@ -12222,7 +12197,7 @@ GameObject:
   - component: {fileID: 1539726793}
   - component: {fileID: 1539726792}
   - component: {fileID: 1539726797}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ActivationTiles2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12259,6 +12234,7 @@ MonoBehaviour:
   promptUI: {fileID: 348431950}
   playerTag: Player
   closeKey: 101
+  isPromptOpen: 0
 --- !u!19719996 &1539726793
 TilemapCollider2D:
   m_ObjectHideFlags: 0
@@ -12605,36 +12581,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92b522f9d69a92247acb99840003beba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BuildingChoice
+  sceneToLoad: CharityInterior
   playerTag: Player
   chooseKey: 101
   interactHint: {fileID: 0}
-  onChosen:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 348431950}
-        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-        m_MethodName: SetActive
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 1
-        m_CallState: 2
-      - m_Target: {fileID: 102900000, guid: e9a7427109339ec4492ceb08e73fb774, type: 3}
-        m_TargetAssemblyTypeName: ActivationZone, Assembly-CSharp
-        m_MethodName: 
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
 --- !u!1 &1572179273
 GameObject:
   m_ObjectHideFlags: 0

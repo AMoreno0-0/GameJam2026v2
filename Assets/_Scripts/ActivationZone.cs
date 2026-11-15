@@ -1,10 +1,11 @@
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 public class ActivationZone : MonoBehaviour
 {
     [SerializeField] private GameObject promptUI;
     [SerializeField] private string playerTag = "Player";
     [SerializeField] private KeyCode closeKey = KeyCode.E;
+    [SerializeField] private string sceneToLoad;
 
     private bool isPromptOpen;
 
@@ -15,8 +16,14 @@ public class ActivationZone : MonoBehaviour
 
     private void Update()
     {
-        if (isPromptOpen && Input.GetKeyDown(closeKey))
+        if (isPromptOpen && Input.GetKeyDown(closeKey)) //get key pressed
+        {
             ClosePrompt();
+            if (gameObject.CompareTag("toOutside")) SceneManager.LoadScene("Exterior");
+            // if (gameObject.CompareTag("toOffice")) SceneManager.LoadScene("CorpoInterior");
+            // if (gameObject.CompareTag("toCharity")) SceneManager.LoadScene("CharityInterior");
+        }
+
     }
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -54,4 +61,5 @@ public class ActivationZone : MonoBehaviour
     {
         if (isPromptOpen) Time.timeScale = 1f;
     }
+
 }
