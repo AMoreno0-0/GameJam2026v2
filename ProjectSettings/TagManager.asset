@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 3
   tags:
   - Dolley
+  - Box
   layers:
   - Default
   - TransparentFX
