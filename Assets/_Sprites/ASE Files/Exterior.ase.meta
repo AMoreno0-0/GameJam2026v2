@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 27a02cdb529074442b152531586a823e
+guid: 55d4410c15bb0844dba682ebdd0c4126
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -127,9 +127,9 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: CEODialogueBox
+  - name: Exterior
     originalName: 
-    pivot: {x: 0.18897638, y: -0.084745765}
+    pivot: {x: 0.5, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -137,9 +137,9 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 127
-      height: 59
-    spriteID: a80a4741b93c86a4880188af120918c3
+      width: 160
+      height: 64
+    spriteID: 6c78692d23b3e0546ae8778cce56c738
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -153,25 +153,25 @@ ScriptedImporter:
   asepriteLayers:
   - layerIndex: 0
     uuid:
-      value0: 2859030650
+      value0: 1587885528
       value1: 0
       value2: 0
       value3: 0
     guid: 0
-    name: CEODialogueBox
+    name: Exterior
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: CEODialogueBox
+    - name: Exterior
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
         x: 0
-        y: 5
-        width: 127
-        height: 59
-      spriteId: a80a4741b93c86a4880188af120918c3
+        y: 0
+        width: 160
+        height: 64
+      spriteId: 6c78692d23b3e0546ae8778cce56c738
     linkedCells: []
     tileCells: []
     tileSetIndex: 0
@@ -181,5 +181,5 @@ ScriptedImporter:
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 48, y: 64}
+  canvasSize: {x: 160, y: 64}
   previousTextureSize: {x: 256, y: 128}

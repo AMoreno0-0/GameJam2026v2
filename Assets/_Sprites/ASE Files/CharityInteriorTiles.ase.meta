@@ -129,7 +129,7 @@ ScriptedImporter:
   animatedSpriteImportData:
   - name: CharityInteriorTiles
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.625, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -138,7 +138,7 @@ ScriptedImporter:
       x: 4
       y: 4
       width: 64
-      height: 48
+      height: 64
     spriteID: bc6756361c9016444a5fd3a78dd8f0d8
     spriteBone: []
     spriteOutline: []
@@ -170,7 +170,7 @@ ScriptedImporter:
         x: 0
         y: 0
         width: 64
-        height: 48
+        height: 64
       spriteId: bc6756361c9016444a5fd3a78dd8f0d8
     linkedCells: []
     tileCells: []
@@ -181,5 +181,5 @@ ScriptedImporter:
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 64, y: 48}
-  previousTextureSize: {x: 128, y: 64}
+  canvasSize: {x: 80, y: 64}
+  previousTextureSize: {x: 128, y: 128}
