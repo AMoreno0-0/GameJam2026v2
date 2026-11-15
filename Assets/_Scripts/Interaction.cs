@@ -3,7 +3,7 @@ using TMPro;
 
 public class Interaction : MonoBehaviour
 {
-    [SerializeField] private TextMeshProUGUI interactionText;
+    [SerializeField] private GameObject interactionText;
 
     private Animator animator;
     private Transform dolley;
@@ -14,7 +14,7 @@ public class Interaction : MonoBehaviour
     void Start()
     {
         animator = GetComponent<Animator>();
-        interactionText.gameObject.SetActive(false);
+        interactionText.SetActive(false);
     }
 
     void Update()
@@ -52,14 +52,14 @@ public class Interaction : MonoBehaviour
     {
         isPromptOpen = true;
         Time.timeScale = 0f;
-        interactionText.gameObject.SetActive(true);
+        interactionText.SetActive(true);
     }
 
     void ClosePrompt()
     {
         isPromptOpen = false;
         Time.timeScale = 1f;
-        interactionText.gameObject.SetActive(false);
+        interactionText.SetActive(false);
     }
 
     void GrabDolley(Transform d)
