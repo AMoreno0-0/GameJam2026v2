@@ -36,4 +36,19 @@ public class PlayerMovement : MonoBehaviour
         animator.SetFloat("InputX", moveInput.x);
         animator.SetFloat("InputY", moveInput.y);
     }
+
+    public void Push(InputAction.CallbackContext context)
+    {
+        animator.SetBool("isPushing", true);
+        if (context.canceled)
+        {
+            animator.SetBool("isPushing", false);
+            animator.SetFloat("LastInputX", moveInput.x);
+            animator.SetFloat("LastInputY", moveInput.y);
+        }
+
+        moveInput = context.ReadValue<Vector2>();
+        animator.SetFloat("InputX", moveInput.x);
+        animator.SetFloat("InputY", moveInput.y);
+    }
 }
