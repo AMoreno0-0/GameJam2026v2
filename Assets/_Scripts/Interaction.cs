@@ -8,6 +8,7 @@ public class Interaction : MonoBehaviour
     private Animator animator;
     private Transform dolley;
     private DolleyPickup pickup;
+    private bool isPromptOpen;
 
     void Start()
     {
@@ -17,8 +18,16 @@ public class Interaction : MonoBehaviour
 
     void Update()
     {
-        // Let go of the dolley
-        if (dolley != null && Input.GetKeyDown(KeyCode.E))
+        // Prompt is open: only E does anything
+        if (isPromptOpen)
+        {
+            if (Input.GetKeyDown(KeyCode.E))
+                ClosePrompt();
+            return;
+        }
+
+        // Release the dolley
+        if (dolley != null && Input.GetKeyDown(KeyCode.Q))
         {
             ReleaseDolley();
         }
@@ -36,7 +45,22 @@ public class Interaction : MonoBehaviour
         if (dolley == null && other.gameObject.CompareTag("Dolley"))
         {
             GrabDolley(other.transform);
+            OpenPrompt();
         }
+    }
+
+    void OpenPrompt()
+    {
+        isPromptOpen = true;
+        Time.timeScale = 0f;
+        interactionText.gameObject.SetActive(true);
+    }
+
+    void ClosePrompt()
+    {
+        isPromptOpen = false;
+        Time.timeScale = 1f;
+        interactionText.gameObject.SetActive(false);
     }
 
     void GrabDolley(Transform d)
@@ -44,7 +68,6 @@ public class Interaction : MonoBehaviour
         dolley = d;
         pickup = d.GetComponent<DolleyPickup>();
 
-        // Make the dolley follow the player instead of simulating on its own
         if (d.TryGetComponent(out Rigidbody2D dRb))
             dRb.bodyType = RigidbodyType2D.Kinematic;
 
@@ -52,7 +75,6 @@ public class Interaction : MonoBehaviour
 
         animator.SetBool("isPushing", true);
         animator.SetBool("isWalking", false);
-        interactionText.gameObject.SetActive(true);
     }
 
     void ReleaseDolley()
@@ -63,7 +85,6 @@ public class Interaction : MonoBehaviour
             dRb.bodyType = RigidbodyType2D.Dynamic;
 
         animator.SetBool("isPushing", false);
-        interactionText.gameObject.SetActive(false);
 
         dolley = null;
         pickup = null;
@@ -73,14 +94,20 @@ public class Interaction : MonoBehaviour
     {
         if (box.TryGetComponent(out Rigidbody2D boxRb))
         {
-            boxRb.linearVelocity = Vector2.zero;
+            boxRb.linearVelocity = Vector2.zero; // .velocity on older Unity versions
             boxRb.bodyType = RigidbodyType2D.Kinematic;
         }
 
         box.SetParent(dolley);
-        box.localPosition = new Vector3(0.025f, 0.15f, 0f); // tweak so it sits on the dolley
+        box.localPosition = new Vector3(0.015f, 0.15f, 0f);
         box.localRotation = Quaternion.identity;
 
         pickup.Clear();
+    }
+
+    void OnDisable()
+    {
+        // Safety net so a disabled/destroyed player never leaves the game frozen
+        if (isPromptOpen) Time.timeScale = 1f;
     }
 }
