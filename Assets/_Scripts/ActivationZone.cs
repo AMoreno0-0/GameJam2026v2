@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 public class ActivationZone : MonoBehaviour
@@ -19,11 +20,16 @@ public class ActivationZone : MonoBehaviour
         if (isPromptOpen && Input.GetKeyDown(closeKey)) //get key pressed
         {
             ClosePrompt();
-            if (gameObject.CompareTag("toOutside")) SceneManager.LoadScene("Exterior");
+            if (gameObject.CompareTag("toOutside")) LoadNextScene("Exterior");
             // if (gameObject.CompareTag("toOffice")) SceneManager.LoadScene("CorpoInterior");
             // if (gameObject.CompareTag("toCharity")) SceneManager.LoadScene("CharityInterior");
         }
 
+    }
+
+    public void LoadNextScene(String sceneName)
+    {
+        SceneManager.LoadScene(sceneName);
     }
 
     private void OnTriggerEnter2D(Collider2D other)
